@@ -18,10 +18,10 @@ The FAF5 network is a comprehensive freight transportation network covering the 
 The analysis generates interactive maps visualizing the network analysis results:
 
 ### Shortest Paths Map
-[View Shortest Paths Map](https://html-preview.github.io/?url=https://github.com/CPCS-IAU/FAF5/blob/master/shortest_paths_map.html)
+[View Shortest Paths Map](https://html-preview.github.io/?url=https://github.com/SebKrantz/FAF5/blob/master/shortest_paths_map.html)
 
 ### Route Choice Sets Map
-[View Route Choice Sets Map](https://html-preview.github.io/?url=https://github.com/CPCS-IAU/FAF5/blob/master/route_choice_sets_map.html)
+[View Route Choice Sets Map](https://html-preview.github.io/?url=https://github.com/SebKrantz/FAF5/blob/master/route_choice_sets_map.html)
 
 ## Features
 
