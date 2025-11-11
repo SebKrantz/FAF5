@@ -107,12 +107,3 @@ FAF5/
 
 - [AequilibraE Documentation](https://aequilibrae.com/)
 - FAF5 Network Data Dictionary (included in `Networks/` directory)
-
-## License
-
-[Add your license information here]
-
-## Contributing
-
-[Add contribution guidelines if applicable]
-
